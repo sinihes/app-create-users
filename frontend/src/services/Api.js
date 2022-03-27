@@ -2,7 +2,7 @@ import axios from 'axios'
 
 export default () => {
   return axios.create({
-    baseURL: 'http://localhost:3002',
+    baseURL: 'https://git.heroku.com/app-creater-user-backend.git',
     headers: {
       'Accept' : 'application/json',
       'Content-Type' : 'application/json' 
