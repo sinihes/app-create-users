@@ -13,11 +13,11 @@ app.use('/', route)
 
 
 /* settings */
-app.set('port', process.env.PORT || 3002)
+const PORT = process.env.PORT || 8080
 
 
 
 
 
-app.listen(app.get('port'))
+app.listen(PORT)
 console.log('puerto en local host')
