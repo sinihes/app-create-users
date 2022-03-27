@@ -1,0 +1,20 @@
+GET http://localhost:3002
+content-type: application/json
+
+###
+
+
+POST http://localhost:3002/add 
+Content-Type: application/json
+
+{
+  "name": "Juan",
+  "sex": "men",
+  "occupation": "Bombero",
+  "randomNumber": 34,
+  "data": ""
+}
+
+###
+
+GET  http://localhost:3002/delete/623f4c4f4acbfbe7f284cec3
