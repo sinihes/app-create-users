@@ -1,6 +1,6 @@
 <template>
   <div class="container" ref="container__card"   >
-<div v-if="cards.length">
+<div class="container" v-if="cards.length">
     <div class="card" v-for="(card, index) in cards" :key="index">
       <div class="circle">
         <img :src="`https://randomuser.me/api/portraits/${card.sex}/${card.randomNumber}.jpg`" alt />

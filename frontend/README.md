@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+# APP CREATER USERS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+##PROYECTO PERSONAL
 
-## Recommended IDE Setup
+Esto es un pequeño proyecto que se basa en una aplicación web que crea una serie de cartas rellenando un formulario y enviando estos datos a un backend.
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+- **BACKEND**:   Express, Moongose, MongoAtlas, Node.
+- **FRONTEND**: VueJS , Axios.
+
+
+------------
+
+
+
+
+###### La aplicación se encuentra en Vercel y Heroku alojada.
+[https://frontend-app-create-users.vercel.app/](https://frontend-app-create-users.vercel.app/ "https://frontend-app-create-users.vercel.app/")
+
+###Image
+![](https://i.ibb.co/fdhZp3z/app-users-creater.png)
