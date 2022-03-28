@@ -7,10 +7,7 @@ Esto es un pequeño proyecto que se basa en una aplicación web que crea una ser
 - **BACKEND**:   Express, Moongose, MongoAtlas, Node.
 - **FRONTEND**: VueJS , Axios.
 
-
 ------------
-
-
 
 
 ###### La aplicación se encuentra en Vercel y Heroku alojada.
